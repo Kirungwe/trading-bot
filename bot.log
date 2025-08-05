@@ -1,0 +1,12 @@
+2025-08-05 14:57:52,634 | INFO | Using Binance Testnet (paper trading)
+2025-08-05 14:57:52,634 | INFO | Only trade Golden Cross (BTC) and Momentum (DOGE)
+2025-08-05 14:57:53,694 | ERROR | Error fetching BTC/USDT: binance GET https://testnet.binance.vision/api/exchangeInfo 404 Not Found 
+2025-08-05 14:57:54,661 | ERROR | Error fetching DOGE/USDT: binance GET https://testnet.binance.vision/api/exchangeInfo 404 Not Found 
+2025-08-05 14:59:28,463 | INFO | Using Binance Testnet (paper trading)
+2025-08-05 14:59:28,463 | INFO | Only trade Golden Cross (BTC) and Momentum (DOGE)
+2025-08-05 14:59:29,670 | ERROR | Error fetching BTC/USDT: binance GET https://testnet.binance.vision/api/exchangeInfo 404 Not Found 
+2025-08-05 14:59:30,635 | ERROR | Error fetching DOGE/USDT: binance GET https://testnet.binance.vision/api/exchangeInfo 404 Not Found 
+2025-08-05 15:03:18,564 | INFO | Using Binance Testnet (paper trading)
+2025-08-05 15:03:18,564 | INFO | Only trade Golden Cross (BTC) and Momentum (DOGE)
+2025-08-05 15:03:19,691 | ERROR | Error fetching BTC/USDT: binance GET https://testnet.binance.vision/api/exchangeInfo 404 Not Found 
+2025-08-05 15:03:20,042 | ERROR | Error fetching DOGE/USDT: binance GET https://testnet.binance.vision/api/exchangeInfo 404 Not Found 
